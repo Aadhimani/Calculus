@@ -2,7 +2,7 @@ public class JavaSum {
 
     public static void main(String[] args) {
 
-       int num = 10, count = 1, total = 0;
+       int num = 20, count = 1, total = 0;
 
        while(count <= num)
        {
@@ -10,6 +10,6 @@ public class JavaSum {
            count++;
        }
 
-       System.out.println("Sum of first 10 natural numbers is: "+total);
+       System.out.println("Sum of first 20 natural numbers is: "+total);
     }
 }
