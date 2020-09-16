@@ -1,4 +1,4 @@
-public class Demo {
+public JavaSum {
 
     public static void main(String[] args) {
 
